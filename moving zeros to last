@@ -1,0 +1,4 @@
+#23 moving zeros to last
+a=[1,2,0,3,0,4,5]
+for i in a:
+    if i==0:
